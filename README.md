@@ -46,9 +46,9 @@ The main goal of this project is to build and evaluate machine learning models t
 - Class imbalance strongly affects performance.
 - Lowering decision threshold improves **recall** (important for stroke detection).
 - Final model achieves:
-  - **Accuracy:** ~XX%
-  - **Recall:** ~YY% (for stroke cases)
-  - **AUC:** ~ZZ%
+  - **Accuracy:** ~70%
+  - **Recall:** ~75% (for stroke cases)
+  - **AUC:** ~83.33%
 
 ---
 
