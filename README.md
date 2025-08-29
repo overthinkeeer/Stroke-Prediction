@@ -38,7 +38,6 @@ The main goal of this project is to build and evaluate machine learning models t
 - **Matplotlib, Seaborn**
 - **Scikit-learn**
 - **Imbalanced-learn**
-- **XGBoost / LightGBM**
 
 ---
 
