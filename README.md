@@ -20,13 +20,14 @@ The main goal of this project is to build and evaluate machine learning models t
   - Handling missing values
   - Encoding categorical variables
   - Feature scaling
-  - Balancing the dataset using SMOTE
+  - Balancing the dataset using SMOTENC
 - **Modeling:**
   - Logistic Regression
   - Random Forest
-  - Gradient Boosting (XGBoost / LightGBM)
+  - K-Nearest Neighbors
+  - Support Vecotr Machines
 - **Evaluation:**
-  - Accuracy, Precision, Recall, F1-score
+  - Accuracy, Precision, Recall, Custom F2-score
   - ROC-AUC curves
   - Threshold tuning
 
@@ -38,7 +39,7 @@ The main goal of this project is to build and evaluate machine learning models t
 - **Matplotlib, Seaborn**
 - **Scikit-learn**
 - **Imbalanced-learn**
-
+- **SHAP**
 ---
 
 ## 🚀 Key Results
@@ -47,7 +48,7 @@ The main goal of this project is to build and evaluate machine learning models t
 - Final model achieves:
   - **Accuracy:** ~70%
   - **Recall:** ~75% (for stroke cases)
-  - **AUC:** ~83.33%
+  - **AUC:** ~81.33%
 
 ---
 
